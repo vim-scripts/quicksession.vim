@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=733
+
+QuickSession is a plugin which allows you to switch quickly
+between your vim session files. When you organized your whole work by creating a number of vim session files (by :mks)
+this plugin can save you some time. This pluign allows you
+to change the sessions inside one vim instance. Before using this plugin you must create a meta session file which contains  
+references to all your session files. Once you have created this you can edit this file later on by the plugin itself. Refer to the usage description section inside the plugin.
+You start the plugin by pressing \qq or by entering the command :QuickSession.
